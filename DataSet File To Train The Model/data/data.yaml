@@ -1,0 +1,6 @@
+train: /Users/praveen18kumar/Downloads/data/labels/training
+val: /Users/praveen18kumar/Downloads/data/labels/validation
+#number of classes
+nc: 5
+#class names
+names: ['Person','Car','Bicycle','OtherVehicle','DontCare']
